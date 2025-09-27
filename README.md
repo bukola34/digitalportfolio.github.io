@@ -1,5 +1,6 @@
 # digitalportfolio.github.io
 A professional portfolio showcasing my projects in Business Analysis, Supply Chain Management, and Data Analytics, built with HTML5 and hosted on GitHub Pages.
+
 Bukola Adesuji – Portfolio Website
 
 Welcome to my portfolio! This repository hosts my professional portfolio website, designed to highlight my expertise in Business Analysis, Supply Chain Management, Procurement, and Data Analytics.
